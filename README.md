@@ -1,3 +1,6 @@
+Dojo Ascension is a terminal-based learning game for people who want to practice Python, Git, JSON, and code-review habits in a story-driven dojo setting.
+
+
 🥋 DOJO ASCENSION: The Path to Co-Architecting
 In the sprawling, interconnected digital wilderness of the future, knowledge is the most precious renewable resource. You have arrived at the Dojo—not as a test subject, but as an Initiate preparing to become a Co-Architect.
 
